@@ -2,6 +2,12 @@
 
 ## Project Portfolio can be found here: https://oil-octagon-e70.notion.site/Project-Portfolio-194a641f375380478404ef1198f2428c
 
+## Link To Datasets
+
+HCAHPS Hospital: ​​https://data.cms.gov/provider-data/dataset/dgck-syfz
+U.S. Census Bureau 2024 County Population: https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html
+
+
 ## Goal
 
 The goal of this project was to identify the key aspects of hospital care that have the greatest impact on hospital ratings and recommendation scores. By understanding these drivers, hospitals can make targeted improvements to enhance patient satisfaction, optimize resource allocation, and strengthen their reputation. Since hospital ratings and recommendations directly influence financial performance, patient trust, and operational success, prioritizing high-impact areas ensures strategic, data-driven enhancements that yield measurable benefits.
