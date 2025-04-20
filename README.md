@@ -19,7 +19,7 @@ The goal of this project was to identify the key aspects of hospital care that m
 
 I sourced the “Patient Survey (HCAHPS) - Hospital” dataset from the Centers for Medicare & Medicaid Services, covering inpatient experiences from April 1, 2023, to March 31, 2024. I performed data cleaning using MySQL to handle missing values, fix formatting issues, and removing unusable rows to enhance data processing efficiency. I integrated U.S. county population data (2024) from the U.S. Census Bureau to assess geographical trends. After extracting key hospital performance measures, I exported the dataset to Excel to create a correlation matrix and perform a regression analysis to determine which factors most influence hospital rating and recommendation scores. I visualized the results with bar charts in Excel to highlight the strongest predictors of these scores. I created interactive dashboards using Tableau to visualize geographic patterns in scores at the county level and the average hospital scores across small, medium, and large counties. 
 
-## Key Finding
+## Key Findings
 
 1. Care transition, nurse communication, and doctor communication have the largest effect on hospital rating and recommendation scores.
 2. There are clear disparities in average hospital rating and recommendation scores across counties.
