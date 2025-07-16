@@ -1,6 +1,6 @@
 # United-States-Patient-Survey-HCAHPS-
 
-## Project Portfolio can be found here: https://oil-octagon-e70.notion.site/Project-Portfolio-194a641f375380478404ef1198f2428c
+## Project can be found here: [https://oil-octagon-e70.notion.site/Project-Portfolio-194a641f375380478404ef1198f2428c](https://oil-octagon-e70.notion.site/United-States-Patient-Survey-HCAHPS-1c6a641f37538090a850f25b956db0de)
 
 ## Tableau Visualizations can be found here: https://public.tableau.com/views/HospitalSurveyProject/HospitalSurveyProject?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
