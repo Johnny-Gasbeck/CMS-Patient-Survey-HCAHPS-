@@ -20,11 +20,11 @@ The goal of this project was to identify the key aspects of hospital care that m
 - Sourced the **“Patient Survey (HCAHPS) - Hospital” dataset** from the Centers for Medicare & Medicaid Services, covering inpatient experiences from **April 1, 2023, to March 31, 2024.**
 - Utilized **MySQL** to clean the data—handle missing values, fix formatting issues, and create a new table to remove unusable rows to enhance data processing efficiency.
 - Integrated **U.S. county population data (2024) from the U.S. Census Bureau** to assess geographical trends.
-- After extracting key hospital performance measures, the dataset was exported to **Excel** to create a **correlation matrix** and perform a **regression analysis** to determine which factors most influence hospital rating and recommendation scores. The results were visualized in **Excel** to highlight the strongest predictors of these scores.
-- Designed **interactive** **dashboards** using **Tableau** to visualize geographic patterns in scores at the county level and the average hospital scores across small, medium, and large counties.
+- After extracting key hospital performance measures, the dataset was exported to **Excel** to create a **correlation matrix** and perform a **regression analysis** to determine which factors have the strongest effect on hospital rating and recommendation scores. The results were visualized in **Excel** to highlight the strongest predictors of these scores.
+- Designed **interactive** **dashboards** using **Tableau** to visualize geographic patterns of hospital scores by county across small, medium, and large counties. 
 
 ## Key Insights
 
 1. Care Transition, Nurse Communication, and Doctor Communication have the largest effect on hospital Rating and Recommendation scores.
-2. Hospital Rating and Recommendation scores are similar across counties.
+2. Counties with higher hospital rating scores generally also reported higher recommendation scores, while counties with lower ratings tended to have lower recommendation scores, showing a strong alignment between the two measures.
 3. Hospitals in counties with a small population size have the highest Rating and Recommendation scores.
