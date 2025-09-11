@@ -1,4 +1,4 @@
-# CMSnPatient Survey HCAHPS
+# CMS Patient Survey HCAHPS Analysis
 
 ## Full Project can be found here: [https://oil-octagon-e70.notion.site/Project-Portfolio-194a641f375380478404ef1198f2428c](https://oil-octagon-e70.notion.site/United-States-Patient-Survey-HCAHPS-1c6a641f37538090a850f25b956db0de)
 
